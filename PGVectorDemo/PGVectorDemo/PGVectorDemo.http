@@ -1,0 +1,6 @@
+@PGVectorDemo_HostAddress = http://localhost:5049
+
+GET {{PGVectorDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
